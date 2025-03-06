@@ -51,7 +51,7 @@ print("Mean Squared Error:",mse)
 print("\nPredictions:\n",y_pred[:5])
 ```
 ## Output:
-![ml expt 4](https://github.com/user-attachments/assets/d94429fe-70e8-4404-bbeb-16acc5a0c6dd)
+![image](https://github.com/user-attachments/assets/7103c472-08e7-4265-bf87-50b9df84da61)
 
 ## Result:
 
